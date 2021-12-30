@@ -1,4 +1,2 @@
-# gitsubtreetest
-This is a repository to test the git subtree.
-
-I am going to add a new repo as a subtree
+# separate
+This is a repository to add it as a subtree
